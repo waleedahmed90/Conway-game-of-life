@@ -6,11 +6,11 @@ node & npm versions
     :~ npm -v
     6.14.4
 
-*Create a react app named 'go-life'*
+*Create a react app named 'game-of-life'*
 
-    :~ npx create-react-app --template typescript go-life
+    :~ npx create-react-app --template typescript game-of-life
 
-*Navigate to folder 'go-life'*
+*Navigate to folder 'game-of-life'*
 
     :~ cd go-life
 
